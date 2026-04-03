@@ -1,0 +1,13 @@
+# extracted from a notebook
+
+## third-party
+crunch-cli  # alias of crunch
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn==1.7.2  # alias of sklearn
+seaborn
+
+## standard
+#os
